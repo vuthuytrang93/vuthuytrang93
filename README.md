@@ -1,5 +1,4 @@
-
- 👋 Welcome to my little coding cave
+<span style="color:yellow">👋 Welcome to my little coding cave </span>.
 --------------------------------------------------- 
   This is a storage for my class projects. More fun projects to come after I graduate in 10/2021
   - 🔭 I’m currently working on a Unity project for my honor thesis
@@ -18,8 +17,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${vuthuytrang93}.${your.repo.id})
 
 <a href="https://github.com/vuthuytrang93/github-readme-stats">
-  <img align="center-left" src="https://github-readme-stats.vercel.app/api?username=vuthuytrang93&show_icons=true&theme=cobalt&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="center-left" src="https://github-readme-stats.vercel.app/api?username=vuthuytrang93&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/vuthuytrang93/convoychat">
-  <img align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuthuytrang93&theme=cobalt&hide_border=true)](https://github.com/vuthuytrang93/github-readme-stats" />
+  <img align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuthuytrang93&theme=dark&hide_border=true)](https://github.com/vuthuytrang93/github-readme-stats" />
 </a>
