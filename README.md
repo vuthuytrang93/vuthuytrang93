@@ -2,8 +2,8 @@
 --------------------------------------------------- 
   This is a storage for my class and personal projects:
   - My programing languages at work is Python and Java. I learnt C and C++ while in college :)
-  - 💬 I did project with Flask, SQLAlchemy, Postman, Unity and Figma
-  - 👯 I’m looking to collaborate on research on AI/ML and HCI
+  - 💬 I did projects with Flask, SQLAlchemy, Postman, Unity and Figma
+  - 👯 I’m looking to joining research on AI/ML and HCI
   - 🤔 I’m willing to help with tutoring Java, SQL, databases and maths
   - 🌱 Ask me about : Python, SQL and core Java, glad to help. I'm a volunteer teacher for 4 students in an orphanage.
   - ⚡ Fun fact 1: I make real good coffee. I was a barista/store manager for 4 years to fund for my college.
